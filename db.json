@@ -1,34 +1,40 @@
 {
-    "tasks":[
-        {
-            "id": 1,
-            "text": "Terminar primer modulo de Angular",
-            "day": "Agosto 5 a las 12:00",
-            "remider": true
-        },
-        {
-            "id": 2,
-            "text": "Terminar el modulo 3",
-            "day": "Agosto 5 a las 17:00",
-            "remider": true
-        },
-        {
-            "id": 3,
-            "text": "Revisar el modulo 3",
-            "day": "Agosto 5 a las 19:00",
-            "remider": false
-        },
-        {
-            "id": 4,
-            "text": "Empezar el modulo 4",
-            "day": "Agosto 5 a las 21:00",
-            "remider": false
-        },
-        {
-            "id": 5,
-            "text": "Finalizar el modulo 4",
-            "day": "Agosto 5 a las 12:00",
-            "remider": false
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Revisar el modulo 3",
+      "day": "Agosto 5 a las 19:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Revisar el modulo 3",
+      "day": "Agosto 5 a las 19:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Revisar el modulo 3",
+      "day": "Agosto 5 a las 19:00",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Empezar el modulo 4",
+      "day": "Agosto 5 a las 21:00",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Empezar el modulo 5",
+      "day": "Agosto 5 a las 21:00",
+      "reminder": false
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "mañana",
+      "reminder": true,
+      "id": 6
+    }
+  ]
 }
